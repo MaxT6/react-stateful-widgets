@@ -41,7 +41,7 @@ export default function Programmers() {
         return programmers[i].name;
       }
     }
-    // programmers.map(element => {if (element.id === featured) {
+    // return programmers.map(element => {if (element.id === featured) {
     //   return element.name
   };
 
